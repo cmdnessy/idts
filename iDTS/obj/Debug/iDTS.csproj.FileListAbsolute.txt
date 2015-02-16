@@ -1,0 +1,5 @@
+D:\WEB\iDTS\iDTS\bin\iDTS.dll
+D:\WEB\iDTS\iDTS\bin\iDTS.pdb
+D:\WEB\iDTS\iDTS\obj\Debug\ResolveAssemblyReference.cache
+D:\WEB\iDTS\iDTS\obj\Debug\iDTS.dll
+D:\WEB\iDTS\iDTS\obj\Debug\iDTS.pdb
